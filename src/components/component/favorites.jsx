@@ -43,13 +43,7 @@ export function Favorites() {
                   <PlusIcon className="w-4 h-4" />
                   <span className="sr-only">Adopt</span>
                 </Button>
-                <Button
-                  className="rounded-full bg-gray-900 text-gray-50 hover:bg-gray-900/80 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-gray-950"
-                  size="icon"
-                  variant="ghost">
-                  <HeartIcon className="w-4 h-4" />
-                  <span className="sr-only">Adopt</span>
-                </Button>
+                
               </div>
             </div>
           </div>
@@ -83,13 +77,6 @@ export function Favorites() {
                   size="icon"
                   variant="ghost">
                   <PlusIcon className="w-4 h-4" />
-                  <span className="sr-only">Adopt</span>
-                </Button>
-                <Button
-                  className="rounded-full bg-gray-900 text-gray-50 hover:bg-gray-900/80 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-gray-950"
-                  size="icon"
-                  variant="ghost">
-                  <HeartIcon className="w-4 h-4" />
                   <span className="sr-only">Adopt</span>
                 </Button>
               </div>
@@ -127,13 +114,7 @@ export function Favorites() {
                   <PlusIcon className="w-4 h-4" />
                   <span className="sr-only">Adopt</span>
                 </Button>
-                <Button
-                  className="rounded-full bg-gray-900 text-gray-50 hover:bg-gray-900/80 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-gray-950"
-                  size="icon"
-                  variant="ghost">
-                  <HeartIcon className="w-4 h-4" />
-                  <span className="sr-only">Adopt</span>
-                </Button>
+                
               </div>
             </div>
           </div>
@@ -169,13 +150,7 @@ export function Favorites() {
                   <PlusIcon className="w-4 h-4" />
                   <span className="sr-only">Adopt</span>
                 </Button>
-                <Button
-                  className="rounded-full bg-gray-900 text-gray-50 hover:bg-gray-900/80 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-gray-950"
-                  size="icon"
-                  variant="ghost">
-                  <HeartIcon className="w-4 h-4" />
-                  <span className="sr-only">Adopt</span>
-                </Button>
+               
               </div>
             </div>
           </div>
@@ -211,13 +186,7 @@ export function Favorites() {
                   <PlusIcon className="w-4 h-4" />
                   <span className="sr-only">Adopt</span>
                 </Button>
-                <Button
-                  className="rounded-full bg-gray-900 text-gray-50 hover:bg-gray-900/80 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-gray-950"
-                  size="icon"
-                  variant="ghost">
-                  <HeartIcon className="w-4 h-4" />
-                  <span className="sr-only">Adopt</span>
-                </Button>
+                
               </div>
             </div>
           </div>
@@ -253,13 +222,7 @@ export function Favorites() {
                   <PlusIcon className="w-4 h-4" />
                   <span className="sr-only">Adopt</span>
                 </Button>
-                <Button
-                  className="rounded-full bg-gray-900 text-gray-50 hover:bg-gray-900/80 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-gray-950"
-                  size="icon"
-                  variant="ghost">
-                  <HeartIcon className="w-4 h-4" />
-                  <span className="sr-only">Adopt</span>
-                </Button>
+                
               </div>
             </div>
           </div>
